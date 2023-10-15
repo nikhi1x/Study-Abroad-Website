@@ -1,0 +1,504 @@
+body{
+    margin: 0%;
+    overflow-x: hidden;
+}
+.main-img{
+    background-image: url(main\ uni.jpg);
+    width: 100%;
+    height: 750px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.nav-bar{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.nav-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 25px;
+}
+.logo{
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    padding-left: 5px;
+}
+
+li a:hover{
+    background-color: black;
+    border-radius: 10px;
+    
+}
+.main-body{
+    
+    width: 100%;
+    height: 699px;
+    margin-top: 0%;
+    float: left;
+}
+.text{
+    text-align: center;
+    padding-top: 12%;
+    color: #fff;
+    font-size: 40px;
+    margin-block-end: 0;
+    margin-block-start: 0%;
+}
+.para{
+    padding-top: 5px;
+    margin-block-end: 1px;
+    margin-block-start: 0%;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    
+}
+.parafor{
+    font-size: 17px;
+    margin-block-start: 0%;
+    padding-top: 5px;
+    margin-block-end: 0%;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+}
+button{
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: #25d366;
+    color: #fff;
+    width: 147px;
+    height: 28px;
+   
+    
+}
+.location{
+    background-color: orange;
+}
+.btn-align{
+    width: 100%;
+    height: 29px;
+    padding-top: 0.5%;
+    padding-left: 40%;
+}
+.about-body{
+    width: 100%;
+    height: 700px;
+    background-color: #fff;
+    float: left;
+}
+.why{
+    text-align: center;
+    color: black;
+    text-decoration: solid;
+    font-size: 28px;
+}
+.affordable{
+    
+    width: 200px;
+    height: 200px;
+    margin-left: 90px;
+    margin-top: 48px;
+    float: left;
+}
+.free{
+    
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: 48px;
+    margin-left: 370px;
+}
+
+.support{
+    
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: 48px;
+    margin-left: 368px;
+}
+.answer{
+    
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 90px;
+}
+.campus{
+    
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 370px;
+}
+.globe{
+    
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 368px;
+}
+.more-about{
+    
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 660px;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 73px;
+
+}
+h4{
+    margin-block-start: 5px;
+    margin-block-end: 5px;
+    color: #fff;
+}
+.border-div{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #222222;
+    border-radius: 10px;
+    padding: 5px;
+    width: 185px;
+    height: 95px;
+    background-color: #222222;
+    box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+}
+.sec-border-div{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #222222;
+    border-radius: 10px;
+    padding: 5px;
+    width: 185px;
+    height: 95px;
+    background-color: #222222;
+    box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+}
+.third-border-div{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #222222;
+    border-radius: 10px;
+    padding: 5px;
+    width: 185px;
+    height: 95px;
+    background-color: #222222;
+    box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+}
+.fourth-border-div{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #222222;
+    border-radius: 10px;
+    padding: 5px;
+    width: 185px;
+    height: 95px;
+    background-color: #222222;
+    box-shadow: -30px 30px 20px rgba(0,0,0,0.3);   
+}
+.fifth-border-div{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #222222;
+    border-radius: 10px;
+    padding: 5px;
+    width: 185px;
+    height: 95px;
+    background-color: #222222;
+    box-shadow: -30px 30px 20px rgba(0,0,0,0.3);   
+}
+.sixth-border-div{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #222222;
+    border-radius: 10px;
+    padding: 5px;
+    width: 185px;
+    height: 95px;
+    background-color: #222222;
+    box-shadow: -30px 30px 20px rgba(0,0,0,0.3);   
+}
+.more-last{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #222222;
+    border-radius: 30px;
+    padding: 5px;
+    width: 185px;
+    height: 30px;
+    background-color: #222222;
+    box-shadow: -30px 30px 20px rgba(0,0,0,0.3);  
+}
+.more-h{
+    padding-left: 46px;
+}
+
+@media (max-width: 425px) {
+    
+    body{
+        overflow-x: hidden;
+        margin: 0;
+    }
+    .nav-bar{
+        padding-right: 0%;
+        padding-left: 0%;
+    }
+    ul{
+        padding-left: 0%;
+        font-size: 8px;
+    }
+    .logo {
+        color: #fff;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 14px;
+        padding-left: 1%;
+    }
+    .li-one{
+        width: 16%;
+    }
+    .li-two{
+        width: 43%;
+    }
+    li a {
+        color: #fff;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-right: 19px;
+    }
+    .main-img{
+        background-image: url(main\ uni.jpg);
+        width: 100%;
+        height: 42rem;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .main-body {
+        width: 100%;
+        height: 582px;
+        margin-top: 0%;
+        float: left;
+    }
+    .text {
+        text-align: center;
+        padding-top: 33%;
+        color: #fff;
+        font-size: 27px;
+        margin-block-end: 0%;
+        margin-block-start: 0%;
+    }
+    .para {
+        padding-top: 5px;
+        margin-block-end: 1px;
+        margin-block-start: 0%;
+        text-align: center;
+        color: #fff;
+        font-size: 14px;
+    }
+    .parafor {
+        font-size: 14px;
+        margin-block-start: 0%;
+        padding-top: 5px;
+        margin-block-end: 0%;
+        text-align: center;
+        color: #fff;
+        font-weight: bold;
+    }
+    button {
+        font-size: 1rem;
+        border: none;
+        outline: none;
+        border-radius: 10px;
+        background-color: #25d366;
+        color: #fff;
+        width: 37%;
+        height: 66%;
+    }
+    .btn-align {
+        width: 79%;
+        height: 6%;
+        padding-top: 0.5%;
+        padding-left: 19%;
+    }
+    .about-body {
+        width: 100%;
+        height: 700px;
+        background-color: #fff;
+        float: left;
+    }
+    .why {
+        text-align: center;
+        color: black;
+        text-decoration: solid;
+        font-size: 21px;
+    }
+    .affordable {
+        width: 46%;
+        height: 14%;
+        margin-left: 3%;
+        margin-top: 1%;
+        float: left;
+    }
+    .free {
+        width: 46%;
+        height: 14%;
+        margin-left: 3%;
+        margin-top: 1%;
+        float: left;
+    }
+    .support{
+        width: 46%;
+        height: 14%;
+        margin-left: 3%;
+        margin-top: 1%;
+        float: left;
+    }
+    .answer {
+        width: 46%;
+        height: 14%;
+        margin-left: 3%;
+        margin-top: 1%;
+        float: left;
+    }
+    .campus{
+        width: 46%;
+        height: 14%;
+        margin-left: 3%;
+        margin-top: 1%;
+        float: left;
+    }
+    .globe{
+        width: 46%;
+        height: 14%;
+        margin-left: 3%;
+        margin-top: 1%;
+        float: left;
+    }
+    .more-about {
+        width: 100%;
+        height: 8%;
+        margin-top: 6%;
+        float: left;
+       margin-left: 0%;
+    
+    }
+    .more-last {
+        border-style: solid;
+        border-width: 5px;
+        border-color: #222222;
+        border-radius: 30px;
+        padding: 5px;
+        width: 28%;
+        height: 24%;
+        background-color: #222222;
+        box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+        margin-left: 33%;
+    }
+    .more-h {
+        padding-left: 21%;
+    }
+    .border-div{
+        border-style: solid;
+        border-width: 5px;
+        border-color: #222222;
+        border-radius: 10px;
+        padding: 5px;
+        width: 85%;
+        height: 75%;
+        background-color: #222222;
+        box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+    }
+    .sec-border-div{
+        border-style: solid;
+        border-width: 5px;
+        border-color: #222222;
+        border-radius: 10px;
+        padding: 5px;
+        width: 85%;
+        height: 75%;
+        background-color: #222222;
+        box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+    }
+    .third-border-div{
+        border-style: solid;
+        border-width: 5px;
+        border-color: #222222;
+        border-radius: 10px;
+        padding: 5px;
+        width: 85%;
+        height: 75%;
+        background-color: #222222;
+        box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+    }
+    .fourth-border-div{
+        border-style: solid;
+        border-width: 5px;
+        border-color: #222222;
+        border-radius: 10px;
+        padding: 5px;
+        width: 85%;
+        height: 75%;
+        background-color: #222222;
+        box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+    }
+    .fifth-border-div{
+        border-style: solid;
+        border-width: 5px;
+        border-color: #222222;
+        border-radius: 10px;
+        padding: 5px;
+        width: 85%;
+        height: 75%;
+        background-color: #222222;
+        box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+    }
+    .sixth-border-div{
+        border-style: solid;
+        border-width: 5px;
+        border-color: #222222;
+        border-radius: 10px;
+        padding: 5px;
+        width: 85%;
+        height: 75%;
+        background-color: #222222;
+        box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+    }
+    img {
+        width: 42px;
+        height: 42px;
+        border-radius: 50%;
+        margin-left: 55px;
+    }
+    h4 {
+        margin-block-start: 0;
+        margin-block-end: 0;
+        font-size: 12px;
+        color: #fff;
+    }
+
+
+
+}
